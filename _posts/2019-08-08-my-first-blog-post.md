@@ -1,3 +1,8 @@
+---
+title: "Jason's Resume"
+date: 2019-08-08
+---
+
 # Jason LaManque
 ### Product Manager
 
